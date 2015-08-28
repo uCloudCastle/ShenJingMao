@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/bg.jpg</file>
+        <file>images/btn_start.png</file>
+        <file>startPage.qml</file>
+        <file>runPage.qml</file>
+        <file>images/stay.png</file>
+        <file>ModePanel.qml</file>
+        <file>images/weizhu.png</file>
+        <file>EndPanel.qml</file>
+        <file>images/failed.png</file>
+        <file>images/replay.png</file>
+        <file>images/victory.png</file>
+        <file>ttf/MFDingDing.otf</file>
+    </qresource>
+</RCC>
