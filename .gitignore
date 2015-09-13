@@ -1,5 +1,5 @@
-# 用户相关文件
+# remove .pro.user & .pro.user.xxx
 *.pro.*
 
-# 备份文件
+# remove bak files
 *.bak
